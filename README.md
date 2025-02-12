@@ -1,5 +1,5 @@
 # steam-depot-finder
-Gathers appid, app name and depot size information for all depots on steam using reverese appinfo lookup.
+Gathers appid, app name and depot size information for all depots on steam using reverese appinfo lookup and saves the data as a json file.
 
 # Requirements
 `pip install -U "steam[client]"`
